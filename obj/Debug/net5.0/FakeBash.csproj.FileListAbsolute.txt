@@ -1,0 +1,30 @@
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/bin/Debug/net5.0/FakeBash.deps.json
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/bin/Debug/net5.0/FakeBash.runtimeconfig.json
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/bin/Debug/net5.0/FakeBash.runtimeconfig.dev.json
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/bin/Debug/net5.0/FakeBash.dll
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/bin/Debug/net5.0/ref/FakeBash.dll
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/bin/Debug/net5.0/FakeBash.pdb
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/obj/Debug/net5.0/FakeBash.csprojAssemblyReference.cache
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/obj/Debug/net5.0/FakeBash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/obj/Debug/net5.0/FakeBash.AssemblyInfoInputs.cache
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/obj/Debug/net5.0/FakeBash.AssemblyInfo.cs
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/obj/Debug/net5.0/FakeBash.csproj.CoreCompileInputs.cache
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/obj/Debug/net5.0/FakeBash.dll
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/obj/Debug/net5.0/ref/FakeBash.dll
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/obj/Debug/net5.0/FakeBash.pdb
+/Users/ninjacats/Documents/Programming/CSharp/Fake Bash/FakeBash/obj/Debug/net5.0/FakeBash.genruntimeconfig.cache
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/bin/Debug/net5.0/FakeBash.deps.json
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/bin/Debug/net5.0/FakeBash.runtimeconfig.json
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/bin/Debug/net5.0/FakeBash.runtimeconfig.dev.json
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/bin/Debug/net5.0/FakeBash.dll
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/bin/Debug/net5.0/ref/FakeBash.dll
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/bin/Debug/net5.0/FakeBash.pdb
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/obj/Debug/net5.0/FakeBash.csprojAssemblyReference.cache
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/obj/Debug/net5.0/FakeBash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/obj/Debug/net5.0/FakeBash.AssemblyInfoInputs.cache
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/obj/Debug/net5.0/FakeBash.AssemblyInfo.cs
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/obj/Debug/net5.0/FakeBash.csproj.CoreCompileInputs.cache
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/obj/Debug/net5.0/FakeBash.dll
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/obj/Debug/net5.0/ref/FakeBash.dll
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/obj/Debug/net5.0/FakeBash.pdb
+/Users/ninjacats/Documents/Programming/CSharp/FakeBash/obj/Debug/net5.0/FakeBash.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ninjacats/.dotnet/store/|arch|/|tfm|",
+      "/Users/ninjacats/.nuget/packages"
+    ]
+  }
+}
